@@ -1,16 +1,6 @@
 # AI_Ragathon_competition_Mutual_funds
 This is for the competition  Ethical Innovation Challenge: RAGathon - AI Innovation Challenge 
 
-Team name :GAINER 
-
-Team members: 
-
-1)Viswanathan V 
-
-2)Stanley A 
-
-3)Senoj S 
-
 About the problem statement:
 RAGathon Challenge: Mutual Fund Performance Insights Application
 Overview:
@@ -48,4 +38,13 @@ Analysis Page :
 The pdf files are uploaded in pdf folder.
 
  **App link**: https://ai-ragathon-competition-team-gainer.streamlit.app/
+
+
+Team name :GAINER 
+
+Team members: 
+1)Viswanathan V 
+2)Stanley A 
+3)Senoj S 
+
 
